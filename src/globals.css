@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+textarea{
+    resize: none;
+}
+
+
+
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
